@@ -1,6 +1,6 @@
-# Playtime Tracker by @Tradie_ to avoid useless resources, initially for Kingsmen RP
+# Playtime Tracker by @Tradie_
 
-This application is a standalone FiveM playtime tracking utility designed to connect to a MySQL database and log player playtime data found in PlayersDB.json (TxData). It has been packaged as a standalone executable, so you don't need to install any dependencies and only requires a correctly configured `config.json` file to run and store playtimes.
+This standalone FiveM playtime tracker connects to a MySQL database and logs player playtime from `PlayersDB.json` (TxData). It’s packaged as an executable with no dependencies required - just configure the `config.json` to start tracking and storing playtime.
 
 ## Table of Contents
 - [License](#license)
