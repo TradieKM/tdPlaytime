@@ -131,4 +131,4 @@ You must run the exe `storePlaytime.exe` each time you want to update playtime, 
    - This executable is distributed as a standalone file, and the source code is not included.
 
 ## Contact
-# For any questions or support, feel free to reach out, though i can't promise fast replies - @Tradie_ on discord
+### For any questions or support, feel free to reach out, though i can't promise fast replies - @Tradie_ on discord
