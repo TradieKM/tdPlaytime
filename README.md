@@ -79,14 +79,14 @@ All Rights Reserved.
     - The console will show detailed logs, such as database connections, read operations, and any errors encountered, it wil lthen exit once complete.
 
 
-# Great! Your playtimes should now be in the pre-defined SQL table!
+### Great! Your playtimes should now be in the pre-defined SQL table!
 
-### Step 3: Enabling the Player Command
+# Step 3: Enabling the Player Command
 1. Run either my paid or free FiveM playtime resource (`td-playtime`) on your server.
 2. The script will automatically detect several notification resources and core frameworks, and print the detection results in the server console on startup.
 3. Jump in-game and type `/playtime` to check your current playtime! 😊
 
-# Detected notification resources: okokNotify, mythic_notify, QBCore, esx_notify
+### Detected notification resources: okokNotify, mythic_notify, QBCore, esx_notify
 
 
 ```
