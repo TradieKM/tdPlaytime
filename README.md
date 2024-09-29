@@ -100,15 +100,6 @@ All Rights Reserved.
 You must run the exe `storePlaytime.exe` each time you want to update playtime, its recommended to add it to the windows startup apps
 
 
-
-
-
-
-
-
-
-
-
 ## Troubleshooting
 ### I did not run into any of these but here you go
 1. **Error: `ER_ACCESS_DENIED_ERROR`**
