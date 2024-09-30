@@ -66,17 +66,15 @@ All Rights Reserved.
 ```   
 
 ## Running and storing Playtimes
-1. Double-click on `storePlaytime.exe` or run it from a command line.
+1. Run `storePlaytime.exe`.
 
 2. The application will automatically:
     - Connect to the MySQL database using the `config.json` settings.
     - Create the `player_playtimes` table if it doesn’t already exist.
     - Read player data from the specified `dataFilePath`.
     - Insert or update playtime records in the database if they are new or they exist.
-
-3. **Logs and Output**:
     - The console will show detailed logs, such as database connections, read operations, and any errors encountered, it wil lthen exit once complete.
-
+   
 
 ### Great! Your playtimes should now be in the pre-defined SQL table!
 
