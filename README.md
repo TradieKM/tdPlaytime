@@ -1,5 +1,4 @@
-# Playtime Tracker by @Tradie_
-
+# txAdmin Playtime Tracker
 This standalone FiveM playtime tracker connects to a MySQL database and logs player playtime from `PlayersDB.json` (TxData). It’s packaged as an executable with no dependencies required - just configure the `config.json` to start tracking and storing playtime.
 
 ## Table of Contents
