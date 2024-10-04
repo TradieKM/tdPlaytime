@@ -80,6 +80,9 @@ All Rights Reserved.
 
 # Step 3: Enabling the Player Command
 1. Run either my paid or free FiveM playtime resource (`td-playtime`) on your server.
+**Links: (Completely free, but i offer a paid version)**
+Free [[Link - Tebex](https://td-fivem.tebex.io/package/6480777)]
+Paid [[Link - Tebex](https://td-fivem.tebex.io/package/6485639)]
 2. The script will automatically detect several notification resources and core frameworks, and print the detection results in the server console on startup, if none are detected no worries, it will default to chat output.
 3. Jump in-game and type `/playtime` to check your current playtime! 😊
 
