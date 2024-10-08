@@ -2,7 +2,6 @@
 This standalone FiveM playtime tracker connects to a MySQL database and logs player playtime from `PlayersDB.json` (TxData). It’s packaged as an executable with no dependencies required - just configure the `config.json` to start tracking and storing playtime.
 
 ## Table of Contents
-- [License](#license)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Setup](#setup)
@@ -10,11 +9,6 @@ This standalone FiveM playtime tracker connects to a MySQL database and logs pla
 - [Troubleshooting](#troubleshooting)
 - [FAQ](#faq)
 - [Contact](#contact)
-
-## License
-All Rights Reserved.
-- This software is owned by @Tradie_/TradieKM/Kingsmen RP. Unauthorized distribution of any of these files, copying or modification is strictly prohibited.
-© 2024, @Tradie_ / TradieKM / Kingsmen RP.
 
 ## Features
 - Formats and tracks player playtime data using a MySQL database and pre-defined target PlayersDB file.
