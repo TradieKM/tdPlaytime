@@ -5,6 +5,9 @@ This standalone FiveM playtime tracker connects to a MySQL database and logs pla
 
 For the executable version, follow the provided instructions below. If you want to use the open-source version, you will need to run it using Node.js and correctly fill the config file.
 
+Why use this?
+Resources tend to not work for me when accessing the playersdb.json file outside of the resources folder, this is a way to combat it, use it if you need it.
+
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
