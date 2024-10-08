@@ -1,4 +1,4 @@
-# txAdmin Playtime Tracker
+# txAdmin Playtime Merger
 This standalone FiveM playtime tracker connects to a MySQL database and logs player playtime from `PlayersDB.json` (TxData). It’s packaged as an executable with no dependencies required - just configure the `config.json` to start tracking and storing playtime.
 
 ## I have packaged an exe version for simplicity, and included all open-source code for this merging tool.
