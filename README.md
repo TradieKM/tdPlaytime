@@ -3,6 +3,8 @@ This standalone FiveM playtime tracker connects to a MySQL database and logs pla
 
 ## I have packaged an exe version for simplicity, and included all open-source code for this merging tool.
 
+For the executable version, follow the provided instructions below. If you want to use the open-source version, you will need to run it using Node.js and correctly fill the config file.
+
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
